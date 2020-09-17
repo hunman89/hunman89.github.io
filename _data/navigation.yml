@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Portfolio"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  #- title: "Portfolio"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "TIL"
     url: https://github.com/hunman89/TIL/
   # - title: "Sample Posts"
   #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Portfolio"
+    url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
