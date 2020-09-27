@@ -279,14 +279,18 @@ defaults:
       comments: # true
       share: true
       related: true
-defaults:
+
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
       author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: false
 
 #defaults:
   # _portfolio
