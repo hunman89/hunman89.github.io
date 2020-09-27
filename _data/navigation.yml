@@ -7,6 +7,6 @@ main:
   # - title: "Sample Posts"
   #   url: /year-archive/
   - title: "About"
-    permalink: /about/
+    url: /about/
   # - title: "Sitemap"
   #   url: /sitemap/
