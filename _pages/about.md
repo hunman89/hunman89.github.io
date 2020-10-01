@@ -35,13 +35,13 @@ layout: single
 
 ## 활동 / 프로젝트
 
-* 장소 추천 웹사이트 (Eody)
+* 장소 추천 웹사이트 (Eody) / [git hub 링크](https://github.com/socialDe/Eody)
   * 지역별 상점 listing (OracleDB, mybatis, spring)
   * 상세페이지 modal화 (JavaScript)
   * 예약기능 (OracleDB, mybatis, spring)
   * 내 정보 수정 기능 (OracleDB, mybatis, spring)
   * 외부 api 적용 (카카오 맵, 기상청 api)
-* 가상의 스마트 교차로 시스템
+* 가상의 스마트 교차로 시스템 / [git hub 링크](https://github.com/hunman89/smartcross-bigdata)
   * 교차로 센서 데이터 로그를 기록 (linux, Java, eclipse, spring)
   * 데이터 분석 (Hadoop , HIVE)
   * 분석된 데이터를 시각화 (tomcat, spring, ajax, chart.js)
